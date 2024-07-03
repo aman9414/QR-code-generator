@@ -18,4 +18,4 @@ Run `pip install qrcode`
 </p>
 
 ## *Author Name*
-[Vikrant](https://github.com/vikrant-v28)
+[Aman](https://github.com/vikrant-v28)
